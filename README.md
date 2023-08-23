@@ -301,14 +301,4 @@ This gave accuracies of :
 - model unlabeled data score   :  74 %
 <img width="669" alt="Screenshot 2023-03-10 at 9 38 11 AM" src="https://user-images.githubusercontent.com/119749228/224388357-968e1a6b-347e-49fd-b49e-97095111a611.png">
 
-## Project Mentors
 
-1. [Dharaneedaran K S](https://github.com/DharaneedaranKS)
-2. [Hrishikesh Kulkarni](https://github.com/HrishiCoolkarni)
-
-## Project Members
-
-1. [Aditya Rajesh](https://github.com/Adityarajesh001)
-2. [Aman Raj](https://github.com/amanrajNitk)
-3. [Chandan Padmashali](https://github.com/CHANDAN-2003)
-4. [Gagan Mahotiliya](https://github.com/gagan20003)
